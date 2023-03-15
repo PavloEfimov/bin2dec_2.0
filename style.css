@@ -1,0 +1,28 @@
+header, main{
+    width: 300px;
+    margin: 20px auto;
+}
+
+header{
+    text-align: center;
+    font-weight: bold;
+}
+
+#divDecimOutput{
+    width: 175px;
+}
+
+.binary{
+    border: 1px dotted black;
+    width: 50%;
+}
+
+#binaryLength{
+    display: inline-block;
+    width: 95%;
+}
+.inp_btn, .out_lng{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
